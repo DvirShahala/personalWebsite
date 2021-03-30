@@ -1,0 +1,22 @@
+.skillGrid {
+    background-color: black;
+}
+h1 {
+    color: #d1d1d1;
+}
+.iconTitle {
+    color: white;
+    font-size: 19px;
+    text-align: center;
+    align-items: center;
+    padding-top: 10px;
+    font-weight: 800;
+}
+.iconGrid {
+    padding-top: 50px;
+}
+.cv {
+    padding-top: 5%;
+    color: #d1d1d1;
+    font-size: 26px;
+}

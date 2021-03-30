@@ -1,0 +1,21 @@
+.back {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
+h1, h4 {
+    color: #d1d1d1;
+}
+h1 {
+    font-weight:800;
+    padding-bottom: 3%;
+}
+.personalImg {
+    border-radius: 2em;
+    width: 11.5em;
+}
+.backContainer {
+    padding-top: 10em;
+    height: 70%;
+}

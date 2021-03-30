@@ -1,0 +1,11 @@
+.Navi {
+    height: 80px;
+}
+.navHome {
+    font-size: 30px !important;
+    color: #d1d1d1 !important;
+    cursor: pointer;
+}
+Nav {   
+    font-size: 20px;
+}
